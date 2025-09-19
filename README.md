@@ -98,11 +98,6 @@
 ---
 
 ## Quick start — clone & view
-```bash
-git clone https://github.com/<your-org>/infinityengi.git
-cd infinityengi
-# Preview docs locally (optional): use VS Code or GitHub preview
-
 
 # 1) What is the V-Model (in automotive)
 
