@@ -1,0 +1,2 @@
+ReqID,RequirementText,DesignID,DesignArtifact,CodeFile,UnitTestID,IntegrationTestID,SystemTestID,VerificationStatus
+R-001,"Vehicle lateral error <= 0.5m",D-001,models/lka_controller.slx,code/firmware/controller.c,T-001,IT-001,ST-001,Not executed

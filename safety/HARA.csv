@@ -1,0 +1,2 @@
+HazardID,Description,Severity,Exposure,Controllability,ASIL,Mitigation
+H-001,Unintended lane departure,High,Medium,Poor,B,Driver alert + braking assist
