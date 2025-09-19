@@ -16,5 +16,3 @@ a learning roadmap, and an interview-ready portfolio.
 3. Copy CSV templates from `templates/` into new projects.
 4. Use `scripts/` for automation helpers.
 
-## Contact
-Maintainer: Your Name — github.com/infinityengi
