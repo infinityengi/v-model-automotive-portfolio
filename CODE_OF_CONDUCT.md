@@ -1,2 +1,4 @@
 # Code of Conduct
-Be respectful. Harassment of any kind is not tolerated. Report issues to the repo owner.
+
+We expect contributors to follow a respectful, inclusive code of conduct. Be kind and professional.
+Report unacceptable behaviour to repo maintainers.

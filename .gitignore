@@ -1,30 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+.env
+venv/
+.env.*
+
+# Pytest / coverage
+htmlcov/
+.coverage
+.pytest_cache/
+
+# VS Code
+.vscode/
+
 # OS
 .DS_Store
 Thumbs.db
 
-# Python
-__pycache__/
-*.pyc
-
-# Build
-build/
-dist/
-*.o
-*.elf
-
-# Simulink / MATLAB
-*.slx
-*.mdl
-*.mat
-*.mex*
-
-# Test results
-reports/
-*.xml
-*.html
-
-# VSCode
-.vscode/
-
 # Node
 node_modules/
+
+# artifacts
+output/
+*.log
