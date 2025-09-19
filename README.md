@@ -141,7 +141,7 @@ T-001,R-001,Verify lateral error at 80 km/h,Vehicle model loaded,Run scenario 's
 
 ---
 
-# 10) How to showcase in a portfolio (what reviewers expect)
+# 10) Deliverables
 
 * One-page project summary: goal, your role, tools, timeline, safety/process targets
 * Small requirements snapshot + **traceability sample** (req → model → test)
@@ -154,7 +154,7 @@ T-001,R-001,Verify lateral error at 80 km/h,Vehicle model loaded,Run scenario 's
 
 ---
 
-# 11) Audit & interview checklist
+# 11) Important Notes
 
 * Requirements versioned and accessible (DOORS/Polarion or export)
 * Traceability matrix showing coverage for every requirement → test
@@ -165,7 +165,7 @@ T-001,R-001,Verify lateral error at 80 km/h,Vehicle model loaded,Run scenario 's
 
 ---
 
-# 12) Popular professional tools recap (quick)
+# 12) Popular professional tools 
 
 * Requirements: **DOORS, Polarion, Jama**
 * Modeling: **Matlab/Simulink, Stateflow**
@@ -175,4 +175,3 @@ T-001,R-001,Verify lateral error at 80 km/h,Vehicle model loaded,Run scenario 's
 * Static analysis: **Polyspace, Coverity**
 * CI/DevOps: **Git/GitLab, Jenkins**
 
-Which of those would you like now?
