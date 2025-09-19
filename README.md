@@ -40,7 +40,19 @@
 ---
 
 ## Visual V-Model
-![V-Model Diagram](docs/images/v-model-diagram.png)  
+
+## Fundamental idea (high-level)
+
+The V-Model emerges from three simple engineering activities working together:
+
+- **Decomposition (left branch, descending):** break the system down into manageable subsystems and modules; capture requirements at each level.  
+- **Implementation (horizontal):** implement the modules and components created during decomposition (code, models, firmware).  
+- **Integration (right branch, ascending):** progressively integrate components and verify at each level until the full system meets the original requirements.
+![V-Model Diagram1](docs/assets/v1.png)  
+
+These three actions — *decompose → implement → integrate* — express the practical flow of the V-Model: define the whole system by breaking it down, build the parts, then reassemble and verify the whole. The small diagram below visualizes this trio before the full V-Model graphic.
+
+![V-Model Diagram2](docs/assets/v2.png)  
 *Alt:* V-model diagram showing left-side definition (requirements → architecture → module design) and right-side verification/validation (unit tests → integration → acceptance).
 
 ---
