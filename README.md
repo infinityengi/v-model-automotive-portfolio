@@ -4,13 +4,13 @@
 ![tests](https://img.shields.io/badge/tests-✔️-blue)
 ![license](https://img.shields.io/badge/license-MIT-yellow)
 
-**One-line:** A systems-engineering toolkit and learning hub that demonstrates practical V-Model workflows, tooling, and reproducible case studies for automotive embedded and autonomous systems.
+A systems-engineering toolkit and learning hub that demonstrates practical V-Model workflows, tooling, and reproducible case studies for automotive embedded and autonomous systems.
 
 **Summary:** This repo collects learning material, code, firmware, tests, and case studies so recruiters, engineers, and students can quickly assess V-Model expertise. It focuses on automotive contexts (ISO 26262, AUTOSAR, HIL/SIL) and provides a step-by-step learning plan, tooling matrix, and hands-on artifacts (e.g., a Lane-Keep-Assist case study) mapped explicitly to V-Model phases.
 
 ---
 
-## TL;DR (for recruiters)
+## TL;DR
 - **Demonstrable V-Model expertise** — end-to-end artifacts (requirements → models → code → tests → validation).  
 - **Practical learning path** — structured week-by-week plan for students and junior engineers.  
 - **Evidence-first case study** — lane-keep-assist example with traceability and test artifacts.
