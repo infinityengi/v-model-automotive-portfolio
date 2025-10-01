@@ -1,4 +1,4 @@
-# infinityengi
+# V-Model
 
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
 ![tests](https://img.shields.io/badge/tests-✔️-blue)
